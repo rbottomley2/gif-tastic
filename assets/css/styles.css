@@ -2,6 +2,11 @@ body {
     background-image: url("http://www.powerpointhintergrund.com/uploads/2017/06/post-pics-of-ol-superhero-wallpaper--ign-boards-12.jpeg");
     }
 
+h2 {
+	font-size: 20px;
+	color: black;
+}
+
 .jumbotron {
     background-image: url("https://i.pinimg.com/736x/d9/93/f8/d993f80c1f73fee0699a7a63f9136f27--superhero-background-superhero-backdrop.jpg");
     text-align: center;
